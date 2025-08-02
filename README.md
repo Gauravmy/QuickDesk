@@ -36,7 +36,3 @@ QuickDesk is a simple, easy-to-use help desk application designed to streamline 
 | Authentication | JWT / Bcrypt        |
 | Email Service | Nodemailer (or SendGrid) |
 
-> You can also build with `Django REST + React` or `Flask + SQLite` depending on your preference.
-
-
-}
